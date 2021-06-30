@@ -12,5 +12,10 @@ The data that we have consists of Monthly Air Temperatures (in oC), and Monthly 
 This dataset contains 2 files containing Monthly Air Temperatures and Precipitation, each from January 1900 to December 2014 in csv format.
 Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this also means that we have data tracked for 85794 locations based on their latitudes and longitudes. We collected our data form after a really extensive research from the website https://climatedataguide.ucar.edu/climate-data/global-land-precipitation-and-temperature-willmott-matsuura-university-delaware which contains Terrestrial Temperature and Precipitation Data collected by the University of Delaware. 
 
+## Interesting Observations from EDA
+#### Plotting the mean annual precipitation of all years, along with mean annual precipitation in 1900, and mean annual precipitation (in mm) in 2014
 
+![precippppp image](https://user-images.githubusercontent.com/57969397/123930935-cd047100-d955-11eb-843b-26d77caf80b9.png)
+
+We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900.
 
