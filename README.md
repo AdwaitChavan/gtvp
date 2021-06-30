@@ -15,8 +15,7 @@ Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this al
 ## Interesting Observations from EDA
 #### Plotting the mean annual precipitation of all years, along with mean annual precipitation in 1900, and mean annual precipitation (in mm) in 2014
 
-
-<p align="center">![precippppp image](https://user-images.githubusercontent.com/57969397/123930935-cd047100-d955-11eb-843b-26d77caf80b9.png)</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/57969397/123930935-cd047100-d955-11eb-843b-26d77caf80b9.png" height="500"></p>
 
 We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900.
 
