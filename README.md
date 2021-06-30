@@ -1,9 +1,9 @@
 # Global Temperature vs Precipitation
-**Data Science project with the goal to learn Machine Learning & Data Science via Python**
+**Data Science project with a goal to learn Machine Learning & Data Science via Python**
 
 Learn more about the data scientist here: https://www.linkedin.com/in/adwaitchavan/
 
-**Global Temperature vs Precipitation** is a Data Science project with the goal to learn Machine Learning & Data Science via Python. The project uses data on global temperature and precipitation collected from 85794 locations globally. Train-test split & Exploratory Data Analysis (EDA) were performed on the cleaned data. Utilized sklearn, numpy & pandas libraries. Multivariate Linear Regression model was implemented for prediction of annual temperature in this supervised learning. Stats Models API was used for OLS Regression Results in order to analyze & conclude relationship between the two entities.  
+**Global Temperature vs Precipitation** is a Data Science project with a goal to learn Machine Learning & Data Science via Python. The project uses data on global temperature and precipitation collected from 85794 locations globally. Train-test split & Exploratory Data Analysis (EDA) were performed on the cleaned data. Utilized sklearn, numpy & pandas libraries. Multivariate Linear Regression model was implemented for prediction of annual temperature in this supervised learning. Stats Models API was used for OLS Regression Results in order to analyze & conclude relationship between the two entities.  
 
 Climate change is really rampant these days with there being a constant increase in temperature, especially due to global warming. At the same time, water scarcity and reduced rainfall is definitely going to turn more dangerous in the near future. Hence, we will use this project to analyze if there is any relationship between global Temperature and Precipitation. We will also use these global temperatures to make predictions about precipitation, and hence utilize it to prevent ourselves from extreme water scarcity in the coming years. 
 
