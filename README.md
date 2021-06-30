@@ -25,5 +25,5 @@ The features of the model are each of the months of January, February, March, Ap
 A small practical example of this could be that these days we experience more fluctuations in precipitation in some months, when all of the months have almost same changes in temperature due to global warming
 
 #### How was the data cleaned?   
-We checked if there are any null values, and while there were not any, we did spot some 0 values, which means the data was already cleaned before usage
+It was checked if there are any null values, and while there were not any, some 0 values were spotted, which means the data was already cleaned before usage
 
