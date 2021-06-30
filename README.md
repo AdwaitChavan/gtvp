@@ -1,4 +1,5 @@
 # Global Temperature vs Precipitation
+**Data Science project with the goal to learn Machine Learning & Data Science via Python**
 
 Learn more about the data scientist here: https://www.linkedin.com/in/adwaitchavan/
 
