@@ -12,14 +12,14 @@ This dataset contains 2 files containing Monthly Air Temperatures and Precipitat
 Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this also means that we have data tracked for 85794 locations based on their latitudes and longitudes. We collected our data form after a really extensive research from the website https://climatedataguide.ucar.edu/climate-data/global-land-precipitation-and-temperature-willmott-matsuura-university-delaware which contains Terrestrial Temperature and Precipitation Data collected by the University of Delaware. 
 
 ## Interesting Observations from EDA
-#### Plotting the mean annual precipitation of all years, along with mean annual precipitation in 1900, and mean annual precipitation (in mm) in 2014
+#### > Plotting the mean annual precipitation of all years, along with mean annual precipitation in 1900, and mean annual precipitation (in mm) in 2014
 
 <p align="center"><img src="https://user-images.githubusercontent.com/57969397/123930935-cd047100-d955-11eb-843b-26d77caf80b9.png" height="500"></p>
 
 We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900. 
 <br>
 
-#### Plotting the annual temperatures in 1900 and 2014 vs the mean annual temperature (in ℃) over all of these years
+#### > Plotting the annual temperatures in 1900 and 2014 vs the mean annual temperature (in ℃) over all of these years
 <p align="center"><img src="https://user-images.githubusercontent.com/57969397/123934312-c7f4f100-d958-11eb-857b-14cfb9647467.png" height="500"></p>
 
 We again see a similar case as earlier, wherein the temperature in 2014 is really high as compared to the mean temperature and the annual temperature in 1900. Also, we see that, unlike other months, the months of February and March have actually experienced a decrease in their annual temperature in 2014 as compared to previous years.
