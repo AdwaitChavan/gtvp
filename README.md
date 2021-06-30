@@ -7,4 +7,10 @@ Learn more about the developer here: https://www.linkedin.com/in/adwaitchavan/
 The features of the model are each of the months of January, February, March, April, May, June, July, August, September, October, November, and December. The reason for choosing these features is because the trends in annual precipitation vary vastly with respect to monthly temperature depending on which month of the year it is. 
 A small practical example of this could be that these days we experience more fluctuations in precipitation in some months, when all of the months have almost the same changes in temperature due to global warming.
 
+## Data
+The data that we have consists of Monthly Air Temperatures (in oC), and Monthly Precipitation (in mm) respectively from January 1900 to December 2014 based on latitudes and longitudes of locations. Thus, our dataset contains Air Temperature (in oC) and Precipitation (in mm) for every month of these 115 years.
+This dataset contains 2 files containing Monthly Air Temperatures and Precipitation, each from January 1900 to December 2014 in csv format.
+Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this also means that we have data tracked for 85794 locations based on their latitudes and longitudes.
+
+
 
