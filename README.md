@@ -19,3 +19,11 @@ Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this al
 
 We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900.
 
+## Common FAQs for this model
+#### What are the features of the model? Why?  
+The features of the model are each of the months of January, February, March, April, May, June, July, August, Sepetember, October, November, and December. The reason for choosing these features is because the trends in annual precipitation vary vastly with respect to monthly temperature depending on which month of the year it is.
+A small practical example of this could be that these days we experience more fluctuations in precipitation in some months, when all of the months have almost same changes in temperature due to global warming
+
+#### How was the data cleaned?   
+We checked if there are any null values, and while there were not any, we did spot some 0 values, which means the data was already cleaned before usage
+
