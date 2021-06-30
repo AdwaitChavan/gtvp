@@ -16,8 +16,7 @@ Both of these datasets have a size of 85794 rows x 1382 columns. Lastly, this al
 
 <p align="center"><img src="https://user-images.githubusercontent.com/57969397/123930935-cd047100-d955-11eb-843b-26d77caf80b9.png" height="500"></p>
 
-We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900. 
-<br>
+We see that the annual precipitation in 2014 has greatly reduced in the first half of the year, which is generally hotter, compared to the second half of the year. Also, from the months of August to December in 2014, we again see that the rainfall has indeed decreased compared to mean rainfall and rainfall in 1900. <br>
 
 #### > Plotting the annual temperatures in 1900 and 2014 vs the mean annual temperature (in ℃) over all of these years
 <p align="center"><img src="https://user-images.githubusercontent.com/57969397/123934312-c7f4f100-d958-11eb-857b-14cfb9647467.png" height="500"></p>
